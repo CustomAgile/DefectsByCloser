@@ -1,0 +1,14 @@
+#release {
+	float: left;
+}
+
+#wait {
+	float: left;
+	height: 16px;
+	width: 24px;
+}
+
+#table {
+	clear: both;
+	padding-top: 15px;
+}
